@@ -27,7 +27,8 @@
   }
 
   .introContainer img{
-    width: 117px;
+    width: 234px;
+    border-radius: 60%;
   }
 
   .introWrapper{
@@ -36,10 +37,9 @@
 
   .titleIntro{
     margin-top: 13px;
-    font-size: 3em;
-    font-family: 'audiowide';
+    font-size: 3.9em;
+    font-family: 'Luckiest Guy';
     color: black;
-    font-weight: bolder;
   }
 
   /* intro - date and venue */
